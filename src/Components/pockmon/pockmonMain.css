@@ -1,0 +1,27 @@
+.search{
+    width: 50%;
+    height: 15vh;
+    align-items: center;
+    text-align: center;
+    margin: 1vh 25%;
+}
+.pock-section{
+    width: 90%;
+    height: auto;
+    margin: 1vh 5%;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+.pock-box {
+    width: calc(20% - 3vh); 
+    height: auto;
+    margin: 1vh 0; 
+    box-sizing: border-box; 
+    background-color: rgb(75, 68, 68);
+    align-items: center;
+    text-align: center;
+    color: white;
+}
